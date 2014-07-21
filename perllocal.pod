@@ -1,0 +1,176 @@
+=head2 Thu May 31 15:53:03 2012: C<Module> L<Algorithm::SVM|Algorithm::SVM>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.14.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu May 31 16:08:24 2012: C<Module> L<Statistics::Regression|Statistics::Regression>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.14.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.53>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Apr 23 23:14:30 2013: C<Module> L<Algorithm::SVM|Algorithm::SVM>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.14.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan  3 15:29:13 2014: C<Module> L<Finance::InteractiveBrokers::API|Finance::InteractiveBrokers::API>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.14.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan  6 11:57:47 2014: C<Module> L<Finance::InteractiveBrokers::SWIG|Finance::InteractiveBrokers::SWIG>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.14.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan  6 11:59:13 2014: C<Module> L<Finance::InteractiveBrokers::SWIG|Finance::InteractiveBrokers::SWIG>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.14.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan  6 12:01:47 2014: C<Module> L<Finance::InteractiveBrokers::SWIG|Finance::InteractiveBrokers::SWIG>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.14.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan  6 12:04:00 2014: C<Module> L<Finance::InteractiveBrokers::SWIG|Finance::InteractiveBrokers::SWIG>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.14.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
